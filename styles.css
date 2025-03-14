@@ -1,0 +1,99 @@
+﻿table {
+    width: 400px;
+    min-width: 400px;
+    max-width: 400px;
+    height: 70px;
+    border-collapse: collapse;
+    border: solid 5px;
+}
+
+
+.white {
+    width: 10px;
+    height: 40px;
+}
+
+.white-2 {
+    width: 30px;
+    border: solid 5px;
+}
+
+.yellow {
+    width: 100px;
+    border: solid 5px;
+    background: yellow;
+}
+
+.last {
+    width: 10px;
+    border: solid 5px;
+}
+
+.first {
+    width: 40px;
+    height: 100px;
+    border: solid 5px;
+}
+
+.first-red {
+    width: 5px;
+    background: red;
+    border: solid 5px;
+}
+
+.second-yellow {
+    width: 10px;
+    border: solid 5px;
+    background: yellow;
+}
+
+.black {
+    width: 10px;
+    background: black;
+    height: 40px;
+}
+
+.low-white {
+    width: 100px;
+    height: 35px;
+    border: solid 5px;
+}
+
+.yellow-third {
+    width: 10px;
+    height: 20px;
+    border: solid 5px;
+    background: yellow;
+}
+
+.blue {
+    width: 50px;
+    background: blue;
+    height: 20px;
+    border: solid 5px;
+}
+
+.low-red {
+    width: 5px;
+    border: solid 5px;
+    background: red;
+}
+
+.white-block {
+    width: 30px;
+    height: 30px;
+    border: solid 5px;
+}
+
+.black-block {
+    width: 70px;
+    background: black;
+    border-right: solid 5px;
+    height: 20px;
+}
+
+.last-white {
+    width: 10px;
+    height: 10px;
+    border: solid 5px;
+}
